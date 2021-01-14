@@ -1,0 +1,3 @@
+Automation Framework
+1. Central repo - github, bitbucket, gitlab
+2. Maven - dependency management tool (download all dependencies into your project)
