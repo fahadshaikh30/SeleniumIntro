@@ -1,0 +1,11 @@
+testNG
+Benefits of testNg:
+ - it has lots of annotations which you can use to implement your test cases
+ - all the tests can be grouped and prioritized through testNg
+ - parallely run your tests in different threads
+ - data parameterization
+ - it produces HTML reports
+ 
+TestNg XML - which you can use to run your program
+1. annotations
+    @Test - to let java know it is a testing method

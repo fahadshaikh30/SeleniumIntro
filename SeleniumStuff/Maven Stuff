@@ -1,0 +1,9 @@
+POM.xml - comes through maven - project of module
+POM - selenium framework - page object model
+page object model - used in implementing the framework
+divide all the pages into different classes
+keep your tests scripts in a separate folder from your page object model
+design of your page object - keep all the locators on the top of 
+IMP for framework
+ - Github - central repo
+ - management tool (framework is kind of defined, you work with dependencies)

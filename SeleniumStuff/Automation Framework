@@ -1,3 +1,5 @@
 Automation Framework
 1. Central repo - github, bitbucket, gitlab
 2. Maven - dependency management tool (download all dependencies into your project)
+3. Selenium WebDriver with Java/Python - to implement the page object model
+4. testNG - run your tests
