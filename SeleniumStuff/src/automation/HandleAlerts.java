@@ -12,7 +12,7 @@ public class HandleAlerts {
         String url = "https://www.testandquiz.com/selenium/testing.html";
 
         System.setProperty("webdriver.chrome.driver",
-            "/Users/fahad/Desktop/Java/SeleniumStuff/Drivers/chromedriver");
+            "/Users/fahad/Documents/GitHub/SeleniumIntro/SeleniumStuff/Drivers/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.navigate().to(url);
 

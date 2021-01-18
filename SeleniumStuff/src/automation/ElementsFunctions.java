@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class ElementsFunctions {
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver",
-            "/Users/fahad/Desktop/Java/SeleniumStuff/Drivers/chromedriver");
+            "/Users/fahad/Documents/GitHub/SeleniumIntro/SeleniumStuff/Drivers/chromedriver");
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://amazon.com");
